@@ -1,0 +1,9 @@
+nelmio_api_doc:
+    documentation:
+        info:
+            title: O2O Test
+            description: Ejercicio de entrevista técnica
+            version: 1.0.0
+    areas:
+        path_patterns:
+            - ^/api(?!/doc$)
